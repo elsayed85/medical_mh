@@ -1,7 +1,7 @@
-<svg 
-    role="img" 
-    aria-label="Filament" 
-    xmlns="http://www.w3.org/2000/svg"          
+<svg
+    role="img"
+    aria-label="Filament"
+    xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 303 61"
     {{ $attributes->merge(['class' => 'fill-current']) }}
 >

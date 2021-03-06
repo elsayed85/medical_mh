@@ -100,7 +100,6 @@ return [
         'path' => app_path('Filament/Widgets'),
         'default' => [
             'account' => true,
-            'info' => true,
         ],
     ],
 
